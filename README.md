@@ -23,13 +23,13 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/harsh-selokar" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-selokar-1412b725b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:harshselokar@gmail.com" target="_blank">
+  <a href="mailto:harshselokar07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/harshhselokar" target="_blank">
+  <a href="https://leetcode.com/u/harshshdjwjwf/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/harshselokar02" target="_blank">
