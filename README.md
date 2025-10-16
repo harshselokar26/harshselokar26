@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [**HarmoCare**](https://github.com/SumedhKolte/HarmoCare)
-- 🌱 I’m currently learning **Node.js**, **Kubernetes**, and **MLOps**
-- 🤝 I’m looking to collaborate on **Cloud-based ML Model APIs**
+- 🔭 I'm currently working on [**HarmoCare**](https://github.com/SumedhKolte/HarmoCare)
+- 🌱 I'm currently learning **Node.js**, **Kubernetes**, and **MLOps**
+- 🤝 I'm looking to collaborate on **Cloud-based ML Model APIs**
 - 💬 Ask me about **Spring Boot, Flask, AWS, Docker, and Data Models**
 
 ---
@@ -81,7 +81,11 @@
 
 ### 🐍 Contribution Graph Animation
 <p align="center">
-  <img src="https://github.com/harshselokar26/harshselokar26/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/harshselokar26/harshselokar26/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/harshselokar26/harshselokar26/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/harshselokar26/harshselokar26/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -93,4 +97,4 @@
 
 ---
 
-<!-- <p align="center">✨ “Transforming code into cloud-powered intelligence.” ☁️🤖</p> -->
+<!-- <p align="center">✨ "Transforming code into cloud-powered intelligence." ☁️🤖</p> -->
